@@ -1,0 +1,5 @@
+{
+  "name": "Cineverse: Movie Ticket Booking",
+  "description": "A modern, cinematic movie ticket booking web application built with React, TypeScript, and Tailwind CSS. Users can browse movies, select seats, and complete a simulated booking process. Features AI-powered recommendations.",
+  "requestFramePermissions": []
+}
